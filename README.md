@@ -8,6 +8,8 @@ An awesome list of deep learning resources
 
 * **[Books](#books)**
 
+* **[Recent Interesting Blog Posts](#recent-interesting-blog-posts)**
+
 * **[Papers](#papers)**
 
  * [Fundamentals](#fundamentals)
@@ -59,6 +61,16 @@ An awesome list of deep learning resources
 * [Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
 * [Deep Learning survey](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) in Nature by Yann LeCun, Yoshua Bengio, and Geoffrey Hinton.
 
+
+###  Recent Interesting Blog Posts
+
+* [Yes You Should Understand Backprop ](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.pokoany6j) by Andrej Karpathy
+* [New Perspectives on Adversarial Training (NIPS 2016 workshop)](http://www.inference.vc/my-summary-of-adversarial-training-nips-workshop/) by Ferenc Huszár 
+* [The major advancements in Deep Learning in 2016](https://tryolabs.com/blog/2016/12/06/major-advancements-deep-learning-2016/)
+* [Demystifying Deep Reinforcement Learning](https://www.nervanasys.com/demystifying-deep-reinforcement-learning/) by Tambet Matiisen
+* [Attention and Memory in Deep Learning and NLP](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/)
+* [Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns/) by Chris Olah and Shan Carter
+* [Why Randomness is Important for Deep Learning](http://blog.evjang.com/2016/07/randomness-deep-learning.html) by Eric Jang
 
 ###  Papers
 
