@@ -26,7 +26,7 @@ An awesome list of deep learning resources
  * [Reinforcement Learning](#reinforcement-learning)
  * [Architectures and other Applications](#architectures-and-other-applications)
 
-* **[Other Resources and References](#other-resources-and-references)**
+* **[Resources and References](#resources-and-references)**
 
 
 
@@ -177,7 +177,7 @@ An awesome list of deep learning resources
 * [Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition,](https://arxiv.org/pdf/1406.4729v4.pdf) He K, Zhang X, Ren S, Sun J, PAMI 2015.
 
 
-<h3>Other Resources and References</h3>
+<h3>Resources and References</h3>
 
 * [Deep Learning Summer School,](http://videolectures.net/deeplearning2015_montreal/) Montreal 2015.
 * [LISA reading List](http://www.iro.umontreal.ca/~lisa/twiki/bin/view.cgi/Public/ReadingOnDeepNetworks)
