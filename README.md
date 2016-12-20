@@ -8,7 +8,8 @@ An awesome list of deep learning resources
 
 * **[Papers](#papers)**
 
-⋅⋅* [Fundamentals](#fundamentals)
+* [Fundamentals](#fundamentals)
+* [Practical Tricks](#practical-tricks)
 
 
 ### Tutorials / Courses
@@ -42,3 +43,8 @@ An awesome list of deep learning resources
 ####  Fundamentals
 
 * [Efficient BackProp,](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf) LeCun YA, Bottou L, Orr GB, Müller KR. InNeural networks: Tricks of the trade 2012.
+
+
+####  Practical Tricks
+
+* [Learning Deep Architectures for AI,](https://www.iro.umontreal.ca/~lisa/pointeurs/TR1312.pdf) Y Bengio - Foundations and trends in Machine Learning, 2009.
