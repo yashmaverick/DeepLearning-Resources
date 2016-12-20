@@ -20,6 +20,12 @@ An awesome list of deep learning resources
  * [Optimization](#optimization)
  * [Regularization](#regularization)
  * [Reinforcement Learning](#reinforcement-learning)
+ * [Architectures and other Applications](#architectures-and-other-applications)
+
+* **[Other Resources](#other-resources)**
+
+* **[books](#books)**
+
 
 ### Tutorials / Courses
 
@@ -136,4 +142,31 @@ An awesome list of deep learning resources
 
 * [Human-level control through deep reinforcement learning,](http://rdcu.be/cdlg) Mnih V, Kavukcuoglu K, Silver D, Rusu AA, Veness J, Bellemare MG, Graves A, Riedmiller M, Fidjeland AK, Ostrovski G, Petersen S, Nature 2015.
 * [Playing Atari with Deep Reinforcement Learning,](http://arxiv.org/abs/1312.5602) Mnih V, Kavukcuoglu K, Silver D, Graves A, Antonoglou I, Wierstra D, Riedmiller M, arXiv preprint arXiv:1312.5602. 2013.
-					
+
+
+<h4>Architectures and other Applications</h4>
+
+* [DeepFace: Closing the Gap to Human-Level Performance in Face Verification,](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf) Taigman Y, Yang M, Ranzato MA, Wolf L, CVPR 2014.					
+* [Large Scale Distributed Deep Networks,](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&cad=rja&uact=8&ved=0ahUKEwjzitmTyO_MAhVHM48KHT4cDdkQFgg8MAQ&url=https%3A%2F%2Fpapers.nips.cc%2Fpaper%2F4687-large-scale-distributed-deep-networks.pdf&usg=AFQjCNG-NwddgOGxTKKWaJql4wUC-Rl1rw&sig2=Al564_8r9oxXrp2byl-TIw) Dean J, Corrado G, Monga R, Chen K, Devin M, Mao M, Senior A, Tucker P, Yang K, Le QV, Ng AY, NIPS 2012.
+* [Predicting Parameters in Deep Learning,](http://www.cs.toronto.edu/%7Eranzato/publications/denil_nips2013.pdf) Denil M, Shakibi B, Dinh L, de Freitas N, NIPS 2013
+* [Distilling the Knowledge in a Neural Network,](http://arxiv.org/abs/1503.02531) G Hinton, O Vinyals, J Dean, arXiv preprint arXiv:1503.02531, 2015.
+* [Spatial Transformer Networks,](http://arxiv.org/pdf/1506.02025v3.pdf) Jaderberg M, Simonyan K, Zisserman A, NIPS 2015.
+* [Generative Adversarial Networks,](http://arxiv.org/abs/1406.2661) Goodfellow I, Pouget-Abadie J, Mirza M, Xu B, Warde-Farley D, Ozair S, Courville A, Bengio Y, NIPS 2014.
+* [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks,](http://arxiv.org/abs/1511.06434) A Radford, L Metz, S Chintala, arXiv preprint arXiv:1511.06434, 2015.
+* [Semi-Supervised Learning with Ladder Networks,](http://arxiv.org/abs/1507.02672) A Rasmus, M Berglund, M Honkala, H Valpola, T Raiko, NIPS 2015.
+* [Highway Networks,](http://arxiv.org/pdf/1505.00387v2.pdf) Srivastava RK, Greff K, Schmidhuber J, arXiv preprint arXiv:1505.00387, 2015.
+* [Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition,](https://arxiv.org/pdf/1406.4729v4.pdf) He K, Zhang X, Ren S, Sun J, PAMI 2015.
+
+
+<h3>Other Resources</h3>
+
+* [Deep Learning Summer School,](http://videolectures.net/deeplearning2015_montreal/) Montreal 2015.
+* [LISA reading List](http://www.iro.umontreal.ca/~lisa/twiki/bin/view.cgi/Public/ReadingOnDeepNetworks)
+* [Deep learning resources](http://deeplearning.net/reading-list/)
+* [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) - a curated list of deep learning resources for computer vision.
+* [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) 
+
+<h3>Books</h3>
+
+* [Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
+* [Deep Learning survey](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) in Nature by Yann LeCun, Yoshua Bengio, and Geoffrey Hinton.
