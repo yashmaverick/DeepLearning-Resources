@@ -2,9 +2,9 @@
 An awesome list of deep learning resources
 
 ## Table of Contents
-* **[Tutorials / Courses](#tutorials-/-courses)** 
+* **[Tutorials / Courses](#tutorials-and-courses)** 
 
-* **[Talks / Videos](#talks-/-videos)** 
+* **[Talks / Videos](#talks-and-videos)** 
 
 * **[Books](#books)**
 
@@ -31,7 +31,7 @@ An awesome list of deep learning resources
 
 
 
-### Tutorials / Courses
+### Tutorials and Courses
 
 * [Deep Learning for Computer Vision](https://www.youtube.com/watch?v=qgx57X0fBdA)  by Rob Fergus, NIPS 2013 tutorial.
 * [Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/syllabus.html) by Fei-Fei Li, Andrej Karpathy and Justin Johnson, 2016. [Stanford]
@@ -44,7 +44,7 @@ An awesome list of deep learning resources
 * [A Deep Learning Tutorial: From Perceptrons to Deep Networks](http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks) by Ivan Vasilev.
 
 
-###  Talks / Videos
+###  Talks and Videos
 
 * [The Next Generation of Neural Networks](https://www.youtube.com/watch?v=AyzOUbkUf3M) by Geoffrey Hinton at GoogleTechTalks 2007.
 * [Recent Developments in Deep Learning](https://www.youtube.com/watch?v=vShMxxqtDDs) by Geoffrey Hinton, UBC 2013.
