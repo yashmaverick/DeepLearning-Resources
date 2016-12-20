@@ -81,8 +81,8 @@ An awesome list of deep learning resources
 
 <h4>Image Classification</h4>
 
- <li><a href="http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf" target="_blank"><b>ImageNet Classification with Deep Convolutional Neural Networks,</b></a> Alex Krizhevsky, Ilya Sutskever, Geoffrey E Hinton, NIPS 2012.</li>
- <li><a href="http://arxiv.org/abs/1409.1556" target="_blank"><b>Very Deep Convolutional Networks for Large-Scale Image Recognition,</b></a> K Simonyan, A Zisserman - arXiv preprint arXiv:1409.1556, 2014.</li>
- <li><a href="http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43022.pdf" target="_blank"><b>Going Deeper with Convolutions,</b></a> Szegedy, Christian and Liu, Wei and Jia, Yangqing and Sermanet, Pierre and Reed, Scott and Anguelov, Dragomir and Erhan, Dumitru and Vanhoucke, Vincent and Rabinovich, Andrew, CVPR 2015.</li>
- <li><a href="https://arxiv.org/abs/1512.03385" target="_blank"><b>Deep Residual Learning for Image Recognition,</b></a> K He, X Zhang, S Ren, J Sun - arXiv preprint arXiv:1512.03385, 2015.</li>
- <li><a href="https://arxiv.org/abs/1502.01852" target="_blank"><b>Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification,</b></a> He, Kaiming and Zhang, Xiangyu and Ren, Shaoqing and Sun, Jian, ICCV 2015.</li>
+* [ImageNet Classification with Deep Convolutional Neural Networks,](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) Alex Krizhevsky, Ilya Sutskever, Geoffrey E Hinton, NIPS 2012.
+* [Very Deep Convolutional Networks for Large-Scale Image Recognition,](http://arxiv.org/abs/1409.1556) K Simonyan, A Zisserman - arXiv preprint arXiv:1409.1556, 2014.
+* [Going Deeper with Convolutions,](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43022.pdf) Szegedy, Christian and Liu, Wei and Jia, Yangqing and Sermanet, Pierre and Reed, Scott and Anguelov, Dragomir and Erhan, Dumitru and Vanhoucke, Vincent and Rabinovich, Andrew, CVPR 2015. 
+* [Deep Residual Learning for Image Recognition,](https://arxiv.org/abs/1512.03385) K He, X Zhang, S Ren, J Sun - arXiv preprint arXiv:1512.03385, 2015.
+* [Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification,](https://arxiv.org/abs/1502.01852) He, Kaiming and Zhang, Xiangyu and Ren, Shaoqing and Sun, Jian, ICCV 2015.
