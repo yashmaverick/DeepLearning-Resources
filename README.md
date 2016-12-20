@@ -11,7 +11,7 @@ An awesome list of deep learning resources
  * [Fundamentals](#fundamentals)
  * [Practical Tricks](#practical-tricks)
  * [Autoencoders](#autoencoders)
- * [Convolutional Neural Networks](#cnns)
+ * [Convolutional Neural Networks](#convolutional-neural-networks)
 
 ### Tutorials / Courses
 
