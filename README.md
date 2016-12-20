@@ -86,3 +86,23 @@ An awesome list of deep learning resources
 * [Going Deeper with Convolutions,](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43022.pdf) Szegedy, Christian and Liu, Wei and Jia, Yangqing and Sermanet, Pierre and Reed, Scott and Anguelov, Dragomir and Erhan, Dumitru and Vanhoucke, Vincent and Rabinovich, Andrew, CVPR 2015. 
 * [Deep Residual Learning for Image Recognition,](https://arxiv.org/abs/1512.03385) K He, X Zhang, S Ren, J Sun - arXiv preprint arXiv:1512.03385, 2015.
 * [Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification,](https://arxiv.org/abs/1502.01852) He, Kaiming and Zhang, Xiangyu and Ren, Shaoqing and Sun, Jian, ICCV 2015.
+
+
+<h4>Visualization and Inversion</h4>
+
+* [Visualizing and Understanding Convolutional Networks,](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiRnoiSy-_MAhVML48KHWKSAd0QFggpMAE&url=https%3A%2F%2Farxiv.org%2Fabs%2F1311.2901&usg=AFQjCNE3Q7HlhHswHMe0Wq3zim3sFpj0Yg&sig2=6cRr9PeP74CnLX7N_EEtjw&bvm=bv.122448493,d.c2I) MD Zeiler, R Fergus, ECCV 2014.
+* [Understanding Deep Image Representations by Inverting Them,](http://arxiv.org/abs/1412.0035) A Mahendran, A Vedaldi, CVPR 2015.
+* [Visualizing and Understanding Recurrent Networks,](https://arxiv.org/abs/1506.02078) A Karpathy, J Johnson, FF Li - arXiv preprint arXiv:1506.02078, 2015.
+
+<h4>Object Detection</h4>
+
+* [Fast R-CNN,](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwi1jd-nyu_MAhXFqI8KHZiABRkQFggxMAI&url=http%3A%2F%2Farxiv.org%2Fabs%2F1504.08083&usg=AFQjCNHAzLwa0vABnH_RuO7yizN40ijrHA&sig2=7_wKcrrvb3B3yNlnfM-u5A) R Girshick, ICCV 2015.
+* [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks,](http://arxiv.org/abs/1506.01497) S Ren, K He, R Girshick, J Sun, NIPS 2015.
+* [Region-based Convolutional Networks for Accurate Object Detection and Segmentation,](https://www.cs.berkeley.edu/%7Erbg/papers/pami/rcnn_pami.pdf) R Girshick, J Donahue, T Darrell, J Malik, PAMI 2016.
+
+<h4>Semantic Segmentation</h4>
+
+* [Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs,](https://arxiv.org/pdf/1412.7062v3.pdf) Chen LC, Papandreou G, Kokkinos I, Murphy K, Yuille AL, arXiv preprint arXiv:1412.7062. 2014.
+* [Fully Convolutional Networks for Semantic Segmentation,](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf) J Long, E Shelhamer, T Darrell, CVPR 2015.
+* [Semantic Image Segmentation via Deep Parsing Network,](http://arxiv.org/pdf/1509.02634.pdf) Z Liu, X Li, P Luo, CC Loy, X Tang, ICCV 2015.
+* [Conditional Random Fields as Recurrent Neural Networks,](http://www.robots.ox.ac.uk/~szheng/CRFasRNN.html) Zheng S, Jayasumana S, Romera-Paredes B, Vineet V, Su Z, Du D, Huang C, Torr PH, ICCV 2015. 
