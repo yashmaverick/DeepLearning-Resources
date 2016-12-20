@@ -6,6 +6,8 @@ An awesome list of deep learning resources
 
 * **[Talks / Videos](#talks-videos)** 
 
+* **[Books](#books)**
+
 * **[Papers](#papers)**
 
  * [Fundamentals](#fundamentals)
@@ -24,7 +26,7 @@ An awesome list of deep learning resources
 
 * **[Other Resources](#other-resources)**
 
-* **[books](#books)**
+
 
 
 ### Tutorials / Courses
@@ -51,6 +53,11 @@ An awesome list of deep learning resources
 * [Deep Learning: Theoretical Motivations](http://videolectures.net/deeplearning2015_bengio_theoretical_motivations/) by Yoshua Bengio, DLSS 2015.
 * [Deep Learning for Vision: Tricks of the trade](https://www.youtube.com/watch?v=clgMTk5V2Sk) Facebook, Bay Area Vision Meeting 2013.
 * [Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24) by Andrew Ng, Graduate Summer School: Deep Learning, Feature Learning 2013.
+
+<h3>Books</h3>
+
+* [Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
+* [Deep Learning survey](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) in Nature by Yann LeCun, Yoshua Bengio, and Geoffrey Hinton.
 
 
 ###  Papers
@@ -165,8 +172,3 @@ An awesome list of deep learning resources
 * [Deep learning resources](http://deeplearning.net/reading-list/)
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) - a curated list of deep learning resources for computer vision.
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) 
-
-<h3>Books</h3>
-
-* [Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
-* [Deep Learning survey](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) in Nature by Yann LeCun, Yoshua Bengio, and Geoffrey Hinton.
