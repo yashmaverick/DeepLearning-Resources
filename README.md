@@ -8,8 +8,8 @@ An awesome list of deep learning resources
 
 * **[Papers](#papers)**
 
-* [Fundamentals](#fundamentals)
-* [Practical Tricks](#practical-tricks)
+⋅⋅* [Fundamentals](#fundamentals)
+⋅⋅* [Practical Tricks](#practical-tricks)
 
 
 ### Tutorials / Courses
