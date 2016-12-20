@@ -4,13 +4,14 @@ An awesome list of deep learning resources
 ## Table of Contents
 * **[Tutorials / Courses](#tutorials-courses)** 
 
-* **[Talks/Videos](#talks-videos)** 
+* **[Talks / Videos](#talks-videos)** 
 
 * **[Papers](#papers)**
 
  * [Fundamentals](#fundamentals)
  * [Practical Tricks](#practical-tricks)
-
+ * [Autoencoders](#autoencoders)
+ * [Convolutional Neural Networks](#cnns)
 
 ### Tutorials / Courses
 
@@ -25,7 +26,7 @@ An awesome list of deep learning resources
 * [A Deep Learning Tutorial: From Perceptrons to Deep Networks](http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks) by Ivan Vasilev.
 
 
-###  Talks/Videos
+###  Talks / Videos
 
 * [The Next Generation of Neural Networks](https://www.youtube.com/watch?v=AyzOUbkUf3M) by Geoffrey Hinton at GoogleTechTalks 2007.
 * [Recent Developments in Deep Learning](https://www.youtube.com/watch?v=vShMxxqtDDs) by Geoffrey Hinton, UBC 2013.
@@ -57,4 +58,14 @@ An awesome list of deep learning resources
 * [Learning Deep Architectures for AI,](https://www.iro.umontreal.ca/~lisa/pointeurs/TR1312.pdf) Y Bengio - Foundations and trends in Machine Learning, 2009.
 
 
+####  Autoencoders
 
+* [Reducing the dimensionality of data with neural networks,](https://www.cs.toronto.edu/~hinton/science.pdf) GE Hinton, RR Salakhutdinov - Science, 2006.
+* [Disentangling factors of variation for facial expression recognition,](http://www-etud.iro.umontreal.ca/%7Erifaisal/material/rifai_eccv_2012.pdf) S Rifai, Y Bengio, A Courville, P Vincent, M Mirza, ECCV 2012.
+* [Stacked denoising autoencoders: Learning useful representations in a deep network with a local denoising criterion,](http://jmlr.csail.mit.edu/papers/volume11/vincent10a/vincent10a.pdf) Vincent P, Larochelle H, Lajoie I, Bengio Y, Manzagol PA, JMLR 2010.
+
+####  Convolutional Neural Networks
+
+* [Gradient-Based Learning Applied to Document Recognition,](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf) LeCun Y, Bottou L, Bengio Y, Haffner P, Proceedings of the IEEE. 1998.
+* [Best Practices for Convolutional Neural Networks Applied to Visual Document Analysis,](http://131.107.65.14/pubs/68920/icdar03.pdf) Simard PY, Steinkraus D, Platt JC, ICDAR 2003.
+* [Network in Network,](http://arxiv.org/abs/1312.4400) M Lin, Q Chen, S Yan - arXiv preprint arXiv:1312.4400, 2013.
