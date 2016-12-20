@@ -24,8 +24,8 @@ An awesome list of deep learning resources
 ###  Talks/Videos
 
 1. [The Next Generation of Neural Networks](https://www.youtube.com/watch?v=AyzOUbkUf3M) by Geoffrey Hinton at GoogleTechTalks 2007.
-2. [Recent Developments in Deep Learning](https://www.youtube.com/watch?v=vShMxxqtDDs) by Geoffrey Hinton, UBC Department of Computer Science's Distinguished Lecture Series, 2013.
-3. [The Unreasonable Effectiveness of Deep Learning](https://www.youtube.com/watch?v=sc-KbuZqGkI) by Yann LeCun, Johns Hopkins University, Center for Language and Speech Processing, 2014.
+2. [Recent Developments in Deep Learning](https://www.youtube.com/watch?v=vShMxxqtDDs) by Geoffrey Hinton, UBC 2013.
+3. [The Unreasonable Effectiveness of Deep Learning](https://www.youtube.com/watch?v=sc-KbuZqGkI) by Yann LeCun, Johns Hopkins University 2014.
 4. [Deep Learning of Representations](https://www.youtube.com/watch?v=4xsVFLnHC_0) by Yoshua Bengio at GoogleTechTalks 2012.
 5. [A Beginners Guide to Deep Neural Networks](http://googleresearch.blogspot.com/2015/09/a-beginners-guide-to-deep-neural.html) by Natalie Hammel and Lorraine Yurshansky, Google Research Blog 2015.
 6. [Deep Learning RNNaissance](https://www.youtube.com/watch?v=6bOMf9zr7N8) with Dr. Juergen Schmidhuber at NYC ML Meetup 2014.
