@@ -26,7 +26,7 @@ An awesome list of deep learning resources
  * [Reinforcement Learning](#reinforcement-learning)
  * [Architectures and other Applications](#architectures-and-other-applications)
 
-* **[Other Resources](#other-resources-and-references)**
+* **[Other Resources and References](#other-resources-and-references)**
 
 
 
