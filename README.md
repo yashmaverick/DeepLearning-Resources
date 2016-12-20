@@ -2,12 +2,13 @@
 An awesome list of deep learning resources
 
 ## Table of Contents
-* **[Tutorials / Courses](#Tutorials / Courses)** 
+* **[Tutorials / Courses](#tutorials-courses)** 
 
-* **[Talks/Videos](#Talks/Videos)** 
+* **[Talks/Videos](#talks-videos)** 
 
-* **[Papers](#Papers)**
-⋅⋅1. [Fundamentals](#Fundamentals)
+* **[Papers](#papers)**
+
+⋅⋅* [Fundamentals](#fundamentals)
 
 
 ### Tutorials / Courses
