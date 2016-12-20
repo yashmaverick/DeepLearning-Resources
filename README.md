@@ -6,6 +6,8 @@ An awesome list of deep learning resources
 
 * **[Talks/Videos](#Talks/Videos)** 
 
+* **[Papers](#Papers)**
+⋅⋅1. [Fundamentals](#Fundamentals)
 
 
 ### Tutorials / Courses
@@ -33,3 +35,9 @@ An awesome list of deep learning resources
 8. [Deep Learning for Vision: Tricks of the trade](https://www.youtube.com/watch?v=clgMTk5V2Sk) Facebook, Bay Area Vision Meeting 2013.
 9. [Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24) by Andrew Ng, Graduate Summer School: Deep Learning, Feature Learning 2013.
 
+
+###  Papers
+
+####  Fundamentals
+
+* [Efficient BackProp,](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf) LeCun YA, Bottou L, Orr GB, Müller KR. InNeural networks: Tricks of the trade 2012.
