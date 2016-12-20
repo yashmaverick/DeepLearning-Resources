@@ -14,6 +14,9 @@ An awesome list of deep learning resources
  * [Convolutional Neural Networks](#convolutional-neural-networks)
  * [Recurrent Neural Networks](#recurrent-neural-networks)
  * [Image Classification](#image-classification)
+ * [Visualization and Inversion](#visualization-and-inversion)
+ * [Object Detection](#object-detection)
+ * [Semantic Segmentation](#semantic-segmentation)
 
 ### Tutorials / Courses
 
