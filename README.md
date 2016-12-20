@@ -73,14 +73,16 @@ An awesome list of deep learning resources
 * [Network in Network,](http://arxiv.org/abs/1312.4400) M Lin, Q Chen, S Yan - arXiv preprint arXiv:1312.4400, 2013.
 
 <h4>Recurrent Neural Networks</h4>
-<li><a href="http://www.cs.utoronto.ca/%7Eilya/pubs/ilya_sutskever_phd_thesis.pdf" target="_blank"><b>Training Recurrent Neural Networks,</b></a> Ilya Sutskever, PhD Thesis, 2012.</li>
-<li><a href="https://www.cs.toronto.edu/%7Egraves/preprint.pdf" target="_blank"><b>Supervised Sequence Labelling with Recurrent Neural Networks,</b></a>  Textbook, Studies in Computational Intelligence, Springer, 2012.</li>
-<li><a href="http://papers.nips.cc/paper/5166-training-and-analysing-deep-recurrent-neural-networks.pdf" target="_blank"><b>Training and Analyzing Deep Recurrent Neural Networks,</b></a> M Hermans, B Schrauwen, NIPS 2013.</li>
-<li><a href="http://arxiv.org/abs/1308.0850" target="_blank"><b>Generating Sequences With Recurrent Neural Networks,</b></a> A Graves - arXiv preprint arXiv:1308.0850, 2013.</li>
+
+* [Training Recurrent Neural Networks,](http://www.cs.utoronto.ca/%7Eilya/pubs/ilya_sutskever_phd_thesis.pdf) Ilya Sutskever, PhD Thesis, 2012.
+* [Supervised Sequence Labelling with Recurrent Neural Networks,](https://www.cs.toronto.edu/%7Egraves/preprint.pdf) Textbook, Studies in Computational Intelligence, Springer, 2012.
+* [Training and Analyzing Deep Recurrent Neural Networks,](http://papers.nips.cc/paper/5166-training-and-analysing-deep-recurrent-neural-networks.pdf) M Hermans, B Schrauwen, NIPS 2013.
+* [Generating Sequences With Recurrent Neural Networks,](http://arxiv.org/abs/1308.0850) A Graves - arXiv preprint arXiv:1308.0850, 2013.
 
 <h4>Image Classification</h4>
-<li><a href="http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf" target="_blank"><b>ImageNet Classification with Deep Convolutional Neural Networks,</b></a> Alex Krizhevsky, Ilya Sutskever, Geoffrey E Hinton, NIPS 2012.</li>
-<li><a href="http://arxiv.org/abs/1409.1556" target="_blank"><b>Very Deep Convolutional Networks for Large-Scale Image Recognition,</b></a> K Simonyan, A Zisserman - arXiv preprint arXiv:1409.1556, 2014.</li>
-<li><a href="http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43022.pdf" target="_blank"><b>Going Deeper with Convolutions,</b></a> Szegedy, Christian and Liu, Wei and Jia, Yangqing and Sermanet, Pierre and Reed, Scott and Anguelov, Dragomir and Erhan, Dumitru and Vanhoucke, Vincent and Rabinovich, Andrew, CVPR 2015.</li>
-<li><a href="https://arxiv.org/abs/1512.03385" target="_blank"><b>Deep Residual Learning for Image Recognition,</b></a> K He, X Zhang, S Ren, J Sun - arXiv preprint arXiv:1512.03385, 2015.</li>
-<li><a href="https://arxiv.org/abs/1502.01852" target="_blank"><b>Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification,</b></a> He, Kaiming and Zhang, Xiangyu and Ren, Shaoqing and Sun, Jian, ICCV 2015.</li>
+
+ <li><a href="http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf" target="_blank"><b>ImageNet Classification with Deep Convolutional Neural Networks,</b></a> Alex Krizhevsky, Ilya Sutskever, Geoffrey E Hinton, NIPS 2012.</li>
+ <li><a href="http://arxiv.org/abs/1409.1556" target="_blank"><b>Very Deep Convolutional Networks for Large-Scale Image Recognition,</b></a> K Simonyan, A Zisserman - arXiv preprint arXiv:1409.1556, 2014.</li>
+ <li><a href="http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43022.pdf" target="_blank"><b>Going Deeper with Convolutions,</b></a> Szegedy, Christian and Liu, Wei and Jia, Yangqing and Sermanet, Pierre and Reed, Scott and Anguelov, Dragomir and Erhan, Dumitru and Vanhoucke, Vincent and Rabinovich, Andrew, CVPR 2015.</li>
+ <li><a href="https://arxiv.org/abs/1512.03385" target="_blank"><b>Deep Residual Learning for Image Recognition,</b></a> K He, X Zhang, S Ren, J Sun - arXiv preprint arXiv:1512.03385, 2015.</li>
+ <li><a href="https://arxiv.org/abs/1502.01852" target="_blank"><b>Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification,</b></a> He, Kaiming and Zhang, Xiangyu and Ren, Shaoqing and Sun, Jian, ICCV 2015.</li>
