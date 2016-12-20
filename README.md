@@ -17,6 +17,9 @@ An awesome list of deep learning resources
  * [Visualization and Inversion](#visualization-and-inversion)
  * [Object Detection](#object-detection)
  * [Semantic Segmentation](#semantic-segmentation)
+ * [Optimization](#optimization)
+ * [Regularization](#regularization)
+ * [Reinforcement Learning](#reinforcement-learning)
 
 ### Tutorials / Courses
 
@@ -109,3 +112,28 @@ An awesome list of deep learning resources
 * [Fully Convolutional Networks for Semantic Segmentation,](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf) J Long, E Shelhamer, T Darrell, CVPR 2015.
 * [Semantic Image Segmentation via Deep Parsing Network,](http://arxiv.org/pdf/1509.02634.pdf) Z Liu, X Li, P Luo, CC Loy, X Tang, ICCV 2015.
 * [Conditional Random Fields as Recurrent Neural Networks,](http://www.robots.ox.ac.uk/~szheng/CRFasRNN.html) Zheng S, Jayasumana S, Romera-Paredes B, Vineet V, Su Z, Du D, Huang C, Torr PH, ICCV 2015. 
+
+
+<h4>Optimization</h4>
+
+* [Deep learning via Hessian-free optimization,](http://icml2010.haifa.il.ibm.com/papers/458.pdf) Martens J, ICML 2010.
+* [On optimization Methods for Deep Learning,](http://ai.stanford.edu/~quocle/LeNgiCoaLahProNg11.pdf) Ngiam J, Coates A, Lahiri A, Prochnow B, Le QV, Ng AY, ICML 2011.
+* [Adam: A Method for Stochastic Optimization,](http://arxiv.org/abs/1412.6980) D Kingma, J Ba - arXiv preprint arXiv:1412.6980, 2014.
+* [On the saddle point problem for non-convex optimization,](http://arxiv.org/abs/1405.4604) R Pascanu, YN Dauphin, S Ganguli, Y Bengio - arXiv preprint arXiv:1405.4604, 2014
+* [Identifying and attacking the saddle point problem in high-dimensional non-convex optimization,](http://arxiv.org/abs/1406.2572) Dauphin YN, Pascanu R, Gulcehre C, Cho K, Ganguli S, Bengio Y, NIPS 2014.
+* [The Loss Surfaces of Multilayer Networks,](http://arxiv.org/abs/1412.0233) Choromanska A, Henaff M, Mathieu M, Arous GB, LeCun Y, arXiv preprint arXiv:1412.0233. 2014.
+* [Gradient-based Hyperparameter Optimization through Reversible Learning,](http://arxiv.org/pdf/1502.03492v3.pdf) D Maclaurin, D Duvenaud, RP Adams - arXiv preprint arXiv:1502.03492, 2015.
+
+<h4>Regularization</h4>
+
+* [Rectified Linear Units Improve Restricted Boltzmann Machines,](http://www.cs.toronto.edu/%7Efritz/absps/reluICML.pdf) Nair V, Hinton GE, ICML 2010.
+* [Maxout Networks,](http://jmlr.org/proceedings/papers/v28/goodfellow13.pdf) Goodfellow IJ, Warde-Farley D, Mirza M, Courville A, Bengio Y, arXiv preprint arXiv:1302.4389. 2013.
+* [Dropout: A Simple Way to Prevent Neural Networks from Overfitting,](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=0ahUKEwjapeOt3-_MAhWDQI8KHYyXDtwQFggpMAM&url=https%3A%2F%2Fwww.cs.toronto.edu%2F%7Ehinton%2Fabsps%2FJMLRdropout.pdf&usg=AFQjCNFModVeeXkqtxn_TXeKPB0zFtw5ew&sig2=sx2fvjDBZ9HGRDIgq-ArgA&bvm=bv.122448493,d.c2I) Srivastava N, Hinton G, Krizhevsky A, Sutskever I, Salakhutdinov R, JMLR 2014.
+* [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift,](http://arxiv.org/abs/1502.03167) S Ioffe, C Szegedy - arXiv preprint arXiv:1502.03167, 2015.
+
+
+<h4>Reinforcement Learning</h4>
+
+* [Human-level control through deep reinforcement learning,](http://rdcu.be/cdlg) Mnih V, Kavukcuoglu K, Silver D, Rusu AA, Veness J, Bellemare MG, Graves A, Riedmiller M, Fidjeland AK, Ostrovski G, Petersen S, Nature 2015.
+* [Playing Atari with Deep Reinforcement Learning,](http://arxiv.org/abs/1312.5602) Mnih V, Kavukcuoglu K, Silver D, Graves A, Antonoglou I, Wierstra D, Riedmiller M, arXiv preprint arXiv:1312.5602. 2013.
+					
