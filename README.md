@@ -71,6 +71,9 @@ An awesome list of deep learning resources
 * [Attention and Memory in Deep Learning and NLP](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/)
 * [Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns/) by Chris Olah and Shan Carter
 * [Why Randomness is Important for Deep Learning](http://blog.evjang.com/2016/07/randomness-deep-learning.html) by Eric Jang
+* [Introduction to Neural Machine Translation with GPUs](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-3/) by Kyunghyun Cho
+* [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/index.html) by Sebastian Ruder
+
 
 ###  Papers
 
@@ -155,7 +158,6 @@ An awesome list of deep learning resources
 * [Maxout Networks,](http://jmlr.org/proceedings/papers/v28/goodfellow13.pdf) Goodfellow IJ, Warde-Farley D, Mirza M, Courville A, Bengio Y, arXiv preprint arXiv:1302.4389. 2013.
 * [Dropout: A Simple Way to Prevent Neural Networks from Overfitting,](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=4&cad=rja&uact=8&ved=0ahUKEwjapeOt3-_MAhWDQI8KHYyXDtwQFggpMAM&url=https%3A%2F%2Fwww.cs.toronto.edu%2F%7Ehinton%2Fabsps%2FJMLRdropout.pdf&usg=AFQjCNFModVeeXkqtxn_TXeKPB0zFtw5ew&sig2=sx2fvjDBZ9HGRDIgq-ArgA&bvm=bv.122448493,d.c2I) Srivastava N, Hinton G, Krizhevsky A, Sutskever I, Salakhutdinov R, JMLR 2014.
 * [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift,](http://arxiv.org/abs/1502.03167) S Ioffe, C Szegedy - arXiv preprint arXiv:1502.03167, 2015.
-
 
 <h4>Reinforcement Learning</h4>
 
