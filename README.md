@@ -36,7 +36,7 @@ An awesome list of deep learning resources
 * [Deep Learning for Computer Vision](https://www.youtube.com/watch?v=qgx57X0fBdA)  by Rob Fergus, NIPS 2013 tutorial.
 * [Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/syllabus.html) by Fei-Fei Li, Andrej Karpathy and Justin Johnson, 2016. [Stanford]
 * [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/) by Richard Socher. [Stanford]
-8 [Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets) by Geoffrey Hinton, 2012. [Coursera]
+* [Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets) by Geoffrey Hinton, 2012. [Coursera]
 * [Lecture notes](http://www.cs.toronto.edu/~hinton/csc2535/lectures.html) from Geoffrey Hinton's classes on neural networks 2013.
 * [Deep Learning Course](http://www.computervisiontalks.com/tag/deep-learning-course/) by Nando de Freitas, 2015. [Oxford]
 * [Deep Learning Course](http://cilvr.cs.nyu.edu/doku.php?id=deeplearning:slides:start) [CILVR lab, NYU]
@@ -73,6 +73,13 @@ An awesome list of deep learning resources
 * [Why Randomness is Important for Deep Learning](http://blog.evjang.com/2016/07/randomness-deep-learning.html) by Eric Jang
 * [Introduction to Neural Machine Translation with GPUs](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-3/) by Kyunghyun Cho
 * [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/index.html) by Sebastian Ruder
+
+### Programming 
+
+#### Tensorflow
+
+* [Deep Learning and Tensorflow](http://www.hvass-labs.org/) by Hvass laboratories
+* [Sirajology](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) by Siraj Raval
 
 
 ###  Papers
@@ -167,6 +174,7 @@ An awesome list of deep learning resources
 
 <h4>Architectures and other Applications</h4>
 
+* [Neural network Zoo,](http://www.asimovinstitute.org/neural-network-zoo/) Fjodor van Veen, Asimov Institute
 * [DeepFace: Closing the Gap to Human-Level Performance in Face Verification,](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf) Taigman Y, Yang M, Ranzato MA, Wolf L, CVPR 2014.					
 * [Large Scale Distributed Deep Networks,](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&cad=rja&uact=8&ved=0ahUKEwjzitmTyO_MAhVHM48KHT4cDdkQFgg8MAQ&url=https%3A%2F%2Fpapers.nips.cc%2Fpaper%2F4687-large-scale-distributed-deep-networks.pdf&usg=AFQjCNG-NwddgOGxTKKWaJql4wUC-Rl1rw&sig2=Al564_8r9oxXrp2byl-TIw) Dean J, Corrado G, Monga R, Chen K, Devin M, Mao M, Senior A, Tucker P, Yang K, Le QV, Ng AY, NIPS 2012.
 * [Predicting Parameters in Deep Learning,](http://www.cs.toronto.edu/%7Eranzato/publications/denil_nips2013.pdf) Denil M, Shakibi B, Dinh L, de Freitas N, NIPS 2013
