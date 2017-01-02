@@ -8,6 +8,8 @@ An awesome list of deep learning resources
 
 * **[Books](#books)**
 
+* **[Recent Papers](#recent-papers)
+
 * **[Recent Interesting Blog Posts](#recent-interesting-blog-posts)**
 
 * **[Papers](#papers)**
@@ -61,6 +63,12 @@ An awesome list of deep learning resources
 
 * [Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
 * [Deep Learning survey](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) in Nature by Yann LeCun, Yoshua Bengio, and Geoffrey Hinton.
+
+
+<h4>Recent Papers</h4>
+
+<h3>2016-12</h3>
+* [Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning](https://arxiv.org/pdf/1612.01887v1.pdf) J Lu, C Xiong, D Parikh, R Socher - arXiv preprint arXiv:1612.01887, 2016
 
 
 ###  Recent Interesting Blog Posts
