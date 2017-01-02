@@ -188,6 +188,13 @@ An awesome list of deep learning resources
 * [Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition,](https://arxiv.org/pdf/1406.4729v4.pdf) He K, Zhang X, Ren S, Sun J, PAMI 2015.
 
 
+<h4>Parallelizing Deep Networks</h4>
+
+* [One weird trick for parallelizing convolutional neural networks,](https://arxiv.org/pdf/1404.5997v2.pdf) A Krizhevsky - arXiv preprint arXiv:1404.5997, 2014.
+* [Large Scale Distributed Deep Networks,](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/40565.pdf) Dean, Jeffrey, et al. Advances in neural information processing systems. 2012.
+* [Coarse Grain Parallelization of Deep Neural Networks,](http://delivery.acm.org/10.1145/2860000/2851158/a1-tallada.pdf?ip=14.139.82.6&id=2851158&acc=ACTIVE%20SERVICE&key=045416EF4DDA69D9%2E1E2B3508530718A8%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=711699610&CFTOKEN=31870658&__acm__=1483378680_7cecabfe09da7f1e8f00d280130783a8) Tallada, M. G. In Proceedings of the 21st ACM SIGPLAN 2016.
+
+
 <h3>Resources and References</h3>
 
 * [Deep Learning Summer School,](http://videolectures.net/deeplearning2015_montreal/) Montreal 2015.
@@ -196,8 +203,3 @@ An awesome list of deep learning resources
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) - a curated list of deep learning resources for computer vision.
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) 
 
-<h3>Parallelizing Deep Networks</h3>
-
-* [One weird trick for parallelizing convolutional neural networks,](https://arxiv.org/pdf/1404.5997v2.pdf) A Krizhevsky - arXiv preprint arXiv:1404.5997, 2014.
-* [Large Scale Distributed Deep Networks,](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/40565.pdf) Dean, Jeffrey, et al. Advances in neural information processing systems. 2012.
-* [Coarse Grain Parallelization of Deep Neural Networks,](http://delivery.acm.org/10.1145/2860000/2851158/a1-tallada.pdf?ip=14.139.82.6&id=2851158&acc=ACTIVE%20SERVICE&key=045416EF4DDA69D9%2E1E2B3508530718A8%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=711699610&CFTOKEN=31870658&__acm__=1483378680_7cecabfe09da7f1e8f00d280130783a8) Tallada, M. G. In Proceedings of the 21st ACM SIGPLAN 2016.
