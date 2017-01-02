@@ -25,6 +25,7 @@ An awesome list of deep learning resources
  * [Regularization](#regularization)
  * [Reinforcement Learning](#reinforcement-learning)
  * [Architectures and other Applications](#architectures-and-other-applications)
+ * [Parallelizing Deep Networks](#parallelizing-deep-networks)
 
 * **[Resources and References](#resources-and-references)**
 
@@ -194,3 +195,8 @@ An awesome list of deep learning resources
 * [Deep learning resources](http://deeplearning.net/reading-list/)
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) - a curated list of deep learning resources for computer vision.
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) 
+
+<h3>Parallelizing Deep Networks</h3>
+
+* [One weird trick for parallelizing convolutional neural networks](https://arxiv.org/pdf/1404.5997v2.pdf) A Krizhevsky - arXiv preprint arXiv:1404.5997, 2014.
+* [Large Scale Distributed Deep Networks](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/40565.pdf) Dean, Jeffrey, et al. Advances in neural information processing systems. 2012.
