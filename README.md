@@ -65,7 +65,7 @@ An awesome list of deep learning resources
 * [Deep Learning survey](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) in Nature by Yann LeCun, Yoshua Bengio, and Geoffrey Hinton.
 
 
-<h3>Recent Papers</h3>
+###  Recent Papers
 
 <h4>2016-12</h4>
 * [Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning](https://arxiv.org/pdf/1612.01887v1.pdf) J Lu, C Xiong, D Parikh, R Socher - arXiv preprint arXiv:1612.01887, 2016
