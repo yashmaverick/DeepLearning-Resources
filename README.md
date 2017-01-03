@@ -36,6 +36,7 @@ An awesome list of deep learning resources
 
 ### Tutorials and Courses
 
+* [Generative Adversarial Networks](https://arxiv.org/pdf/1701.00160v1.pdf) by Ian Goodfellow, NIPS 2016 Tutorial.
 * [Deep Learning for Computer Vision](https://www.youtube.com/watch?v=qgx57X0fBdA)  by Rob Fergus, NIPS 2013 tutorial.
 * [Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/syllabus.html) by Fei-Fei Li, Andrej Karpathy and Justin Johnson, 2016. [Stanford]
 * [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/) by Richard Socher. [Stanford]
