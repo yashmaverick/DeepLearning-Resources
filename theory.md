@@ -1,4 +1,10 @@
- # Deep Learning Theory
+ # Deep Learning Theory Talks, Tutorials
+ 
+[Variational Inference](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Variational-Inference-Foundations-and-Modern-Methods)
+
+[Bayesian Reasoning and Deep Learning in Agent-based Systems](http://shakirm.com/slides/NIPS2016-Bayesian%20Agents.pdf)
+ 
+ # Deep Learning Theory Papers
  
  ## Theory of neural networks
  [Provable Bounds for Learning Some Deep Representations](https://arxiv.org/abs/1310.6343)
