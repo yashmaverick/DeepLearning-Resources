@@ -36,5 +36,8 @@
  
  [VIME: Variational Information Maximizing Exploration](https://arxiv.org/pdf/1605.09674.pdf)
  
+ [Reinforcement learning of motor skills with policy gradients ](http://www.kyb.mpg.de/fileadmin/user_upload/files/publications/attachments/Neural-Netw-2008-21-682_4867%5b0%5d.pdf)
  
+ [CONTINUOUS CONTROL WITH DEEP REINFORCEMENT LEARNING](https://arxiv.org/pdf/1509.02971.pdf)
+
  ### Optimisation 
