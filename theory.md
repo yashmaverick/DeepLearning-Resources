@@ -1,4 +1,4 @@
- # Deep Learning Theory Talks, Tutorials
+ # Deep Learning Theory, Talks, Tutorials and Blogs
  
 [Variational Inference](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Variational-Inference-Foundations-and-Modern-Methods)
 
@@ -6,8 +6,8 @@
 
 [Variational Learning](https://arxiv.org/pdf/1606.05908.pdf)
 
-
- # Deep Learning Theory Papers
+[Generative Models](https://theinformationageblog.wordpress.com/2017/03/03/openai-post-about-generative-models-an-example-of-excellence-in-rd/)
+ # Deep Learning Theoretical Papers
  
  ## Theory of neural networks
  [Provable Bounds for Learning Some Deep Representations](https://arxiv.org/abs/1310.6343)
@@ -16,9 +16,9 @@
  [Generalization and Equilibrium in Generative Adversarial Nets (GANs)
 ](https://www.youtube.com/watch?v=V7TliSCqOwI)
 
-[Generative Adversarial Networks
-](https://arxiv.org/pdf/1701.00160v1.pdf)
- 
+[Improved Variational Inference with Inverse Autoregressive Flow](https://arxiv.org/pdf/1606.04934.pdf) 
+
+[Improved Techniques for Training GANs](https://arxiv.org/pdf/1606.03498.pdf)
  ## Bayesian deep learning
  [Semi-supervised deep kernel learning](http://bayesiandeeplearning.org/papers/BDL_5.pdf)
  
