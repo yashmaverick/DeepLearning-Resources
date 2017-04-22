@@ -1,4 +1,4 @@
- # Resources on Theoretical Machine Learning
+ # Resources on Theoretical Deep Learning
  
  ## Deep Learning Theory, Talks, Tutorials, Blogs and Courses
  
