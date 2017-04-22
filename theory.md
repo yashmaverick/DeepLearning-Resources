@@ -3,15 +3,16 @@
 [Variational Inference](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Variational-Inference-Foundations-and-Modern-Methods)
 
 [Bayesian Reasoning and Deep Learning in Agent-based Systems](http://shakirm.com/slides/NIPS2016-Bayesian%20Agents.pdf)
- 
+
+[Variational Learning](https://arxiv.org/pdf/1606.05908.pdf)
+
+
  # Deep Learning Theory Papers
  
  ## Theory of neural networks
  [Provable Bounds for Learning Some Deep Representations](https://arxiv.org/abs/1310.6343)
  
- ## Generative models: Variational learning and inference
- 
- ## Generative models: Game theoretic approaches
+ ## Generative models
  [Generalization and Equilibrium in Generative Adversarial Nets (GANs)
 ](https://www.youtube.com/watch?v=V7TliSCqOwI)
 
