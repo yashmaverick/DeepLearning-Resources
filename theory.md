@@ -8,6 +8,7 @@
  ## Generative models: Game theoretic approaches
  [Generalization and Equilibrium in Generative Adversarial Nets (GANs)
 ](https://www.youtube.com/watch?v=V7TliSCqOwI)
+[Generative Adversarial Networks] (https://arxiv.org/pdf/1701.00160v1.pdf)
  
  ## Bayesian deep learning
  
