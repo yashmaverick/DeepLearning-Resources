@@ -13,5 +13,12 @@
 ](https://arxiv.org/pdf/1701.00160v1.pdf)
  
  ## Bayesian deep learning
+ [Semi-supervised deep kernel learning](http://bayesiandeeplearning.org/papers/BDL_5.pdf)
+ 
+ [Learning to Optimise: Using Bayesian Deep Learning for Transfer Learning in Optimisation
+ ](http://bayesiandeeplearning.org/papers/BDL_9.pdf)
+ 
+ [Neural Variational Inference For Topic Models](http://bayesiandeeplearning.org/papers/BDL_27.pdf)
+ 
  
  ## Optimisation 
