@@ -40,4 +40,11 @@
  
  [CONTINUOUS CONTROL WITH DEEP REINFORCEMENT LEARNING](https://arxiv.org/pdf/1509.02971.pdf)
 
- ### Optimisation 
+ ### Optimisation
+ [OptNet: Differentiable Optimization as a Layer in Neural Networks](https://arxiv.org/pdf/1703.00443.pdf)
+ 
+ [OPTIMIZATION AS A MODEL FOR FEW-SHOT LEARNING](https://openreview.net/pdf?id=rJY0-Kcll)
+ 
+ [UNROLLED GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/1611.02163.pdf)
+ 
+ [Input Convex Neural Networks](https://arxiv.org/pdf/1609.07152.pdf)
