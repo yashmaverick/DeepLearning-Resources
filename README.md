@@ -28,6 +28,7 @@ An awesome list of deep learning resources
  * [Reinforcement Learning](#reinforcement-learning)
  * [Architectures and other Applications](#architectures-and-other-applications)
  * [Parallelizing Deep Networks](#parallelizing-deep-networks)
+ * [Neural Program Generation and Language Grounding]
 
 * **[Resources and References](#resources-and-references)**
 
@@ -204,6 +205,22 @@ An awesome list of deep learning resources
 * [Coarse Grain Parallelization of Deep Neural Networks,](http://delivery.acm.org/10.1145/2860000/2851158/a1-tallada.pdf?ip=14.139.82.6&id=2851158&acc=ACTIVE%20SERVICE&key=045416EF4DDA69D9%2E1E2B3508530718A8%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=711699610&CFTOKEN=31870658&__acm__=1483378680_7cecabfe09da7f1e8f00d280130783a8) Tallada, M. G. In Proceedings of the 21st ACM SIGPLAN 2016.
 
 
+<h4>Neural Program Synthesis and Language Grounding</h4>
+
+* [DEEPCODER: LEARNING TO WRITE PROGRAMS](https://arxiv.org/pdf/1611.01989.pdf)
+* [Program Synthesis using Natural Language](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/NLPSynthesis.pdf)
+* [Programming with a Differentiable Forth Interpreter](https://arxiv.org/pdf/1605.06640.pdf)
+* [Unsupervised Learning by Program Synthesis](https://papers.nips.cc/paper/5785-unsupervised-learning-by-program-synthesis.pdf)
+* [Differentiable Programs with Neural Libraries](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/03/main2.pdf)
+
+* [The symbol grounding problem](http://courses.media.mit.edu/2004spring/mas966/Harnad%20symbol%20grounding.pdf)
+* [Language to Logical Form with Neural Attention](https://arxiv.org/pdf/1601.01280.pdf) 
+* [Deep Neural Networks with Massive Learned Knowledge](https://www.cs.cmu.edu/~rsalakhu/papers/emnlp16deep.pdf)
+* [Harnessing Deep Neural Networks with Logic Rules](http://www.petuum.com/pdf/Hu_etal_ACL16.pdf)
+* [End-To-End Memory Networks](https://papers.nips.cc/paper/5846-end-to-end-memory-networks.pdf)
+* [Reinforcement Learning for Mapping Instructions to Actions](http://aclweb.org/anthology/P09-1010)
+* [Parsing with Compositional Vector Grammars](http://www.aclweb.org/anthology/P13-1045)
+
 <h3>Resources and References</h3>
 
 * [Deep Learning Summer School,](http://videolectures.net/deeplearning2015_montreal/) Montreal 2015.
@@ -211,4 +228,4 @@ An awesome list of deep learning resources
 * [Deep learning resources](http://deeplearning.net/reading-list/)
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision) - a curated list of deep learning resources for computer vision.
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) 
-
+* [Language Grounding to Vision and Control](https://katefvision.github.io/LanguageGrounding/#readings)
