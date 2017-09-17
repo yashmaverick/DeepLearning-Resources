@@ -28,7 +28,7 @@ An awesome list of deep learning resources
  * [Reinforcement Learning](#reinforcement-learning)
  * [Architectures and other Applications](#architectures-and-other-applications)
  * [Parallelizing Deep Networks](#parallelizing-deep-networks)
- * [Neural Program Generation and Language Grounding]
+ * [Neural Program Synthesis and Language Grounding](#neural-program-synthesis-and-language-grounding)
 
 * **[Resources and References](#resources-and-references)**
 
@@ -212,7 +212,6 @@ An awesome list of deep learning resources
 * [Programming with a Differentiable Forth Interpreter](https://arxiv.org/pdf/1605.06640.pdf)
 * [Unsupervised Learning by Program Synthesis](https://papers.nips.cc/paper/5785-unsupervised-learning-by-program-synthesis.pdf)
 * [Differentiable Programs with Neural Libraries](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/03/main2.pdf)
-
 * [The symbol grounding problem](http://courses.media.mit.edu/2004spring/mas966/Harnad%20symbol%20grounding.pdf)
 * [Language to Logical Form with Neural Attention](https://arxiv.org/pdf/1601.01280.pdf) 
 * [Deep Neural Networks with Massive Learned Knowledge](https://www.cs.cmu.edu/~rsalakhu/papers/emnlp16deep.pdf)
